@@ -1,7 +1,7 @@
 # PowerBuilder-Manual
 Best-PowerBuilder-Manual
 
-[一、开发规范](kfgf.md)
+[一、开发规范](KFGF.md)
 
 [二、开发配置](KFPZ.md)
 
